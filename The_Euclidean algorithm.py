@@ -30,7 +30,7 @@ class EuclideanAlgorithm:
 
 def the_answer():
 
-#let the user to input the value
+#let the user to input the number
     a = int(input("Please enter the first positive integer: "))
     b = int(input("Please enter the second positive integer: "))
 
